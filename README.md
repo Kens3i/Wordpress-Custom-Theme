@@ -1,2 +1,2 @@
 # Wordpress-Custom-Theme
-A WOrdpress Theme I Created Using Elementor And Phlox
+A Wordpress Theme I Created Using Elementor And Phlox
